@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amirrocker
 - 👀 I’m interested in coding & development 4 the funky bunch
-- 🌱 I’m currently learning kotlin, rx and well, life i guess :)
+- 🌱 I’m currently learning kotlin, rx and well, life I guess :)
 - 💞️ I’m looking to collaborate.
 - 📫 How to reach me: Xing or github pm
 
